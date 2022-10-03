@@ -20,5 +20,5 @@
   
    <h2>📁Acesso ao projeto📁</h2>
  <ul>
-   <li>https://guilhermetgg.github.io/escola-lutas.html//</li>
+   <li>https://guilhermetgg.github.io/escolaDeLuta.html/</li>
 
